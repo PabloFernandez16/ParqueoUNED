@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "hzTlP8oemNXTGRNEitV2ug2FRzA34L/OaeUy8TwC5pZDwS1/3og7r3njbDYZ18LH9jxMwZL0MSJdU1PNV8qn5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Paula\\Desktop\\PW-P2\\api_parqueosHeredianos\\api_parqueosHeredianos\\api_parqueosHeredianos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paula\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Paula\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Paula\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Paula\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Paula\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Paula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Paula\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
